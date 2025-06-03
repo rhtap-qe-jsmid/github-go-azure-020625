@@ -13,6 +13,6 @@ Before you begin creating an application with this `devfile` code sample, it's h
 4. The `devfile.yaml` [`deploy` command](https://github.com/redhat-appstudio/devfile-sample-go-dance/blob/main/devfile.yaml#L40-L53) completes the [outerloop](https://devfile.io/docs/2.2.0/innerloop-vs-outerloop) deployment phase by pointing to the `image-build` and `kubernetes-deploy` components to create your application.
 
 ### Additional resources
-* For more information about Go, see [go.dev](https://go.dev/).
+* For more information about Go, see [go.dev](https://go.dev/). 
 * For more information about devfiles, see [Devfile.io](https://devfile.io/).
 * For more information about Dockerfiles, see [Dockerfile reference](https://docs.docker.com/engine/reference/builder/).
